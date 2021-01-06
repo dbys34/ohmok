@@ -1,0 +1,9 @@
+td{
+    background-image: url(board_background.png);
+    height: 50px;
+    width: 50px;
+    padding: 0px;
+}
+table {
+    border-spacing: 0px;
+}
